@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/mohamedKhaled89/single-price-grid-component]
-- Live Site URL: [https://mohamedkhaled89.github.io/single-price-grid-component/]
+- Solution URL: [https://github.com/mohamedKhaled89/social-proof-section]
+- Live Site URL: [https://mohamedkhaled89.github.io/social-proof-section/]
 
 ## My process
 
